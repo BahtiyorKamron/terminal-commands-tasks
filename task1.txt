@@ -1,0 +1,4 @@
+find (path of directory) -name *\filename
+
+find Documents/chat-app/public/src -name *\index.js
+
